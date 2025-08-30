@@ -7,6 +7,7 @@ Hello, this is Ishan! I created this repository as a dedicated hub for my final 
 ## 💡Work Highlights 
 1. [Pull Request](https://github.com/RocketChat/Rocket.Chat/pull/35975)
 2. [Project Showcase](https://composer.ishanmitra.com/)
+3. [Demo Day 2025 Presentation](https://www.youtube.com/watch?v=ioU9-aee9Ic&list=PLee3gqXJQrFVL0K1-8gNaGMGg5nE1frTI&index=13) [<img height="18" width="18" src="https://cdn.simpleicons.org/youtube/ff000/white" />](#)
 
 ## 🧠 About the Project
 _The Message Composer refers to Rocket.Chat's textbox component inside the chatroom. It includes the textbox where users can type messages, use the formatter buttons, and attach files._  
